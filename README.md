@@ -18,10 +18,7 @@ This Privacy Policy explains how the extension  collects, uses, shares, and prot
 
 
 ## Data Sharing
-
-•	Data is collected only for research purposes and our analysis will focus on its properties and patterns.
-•	All data collected will be anonymized, and no personally identifiable information will be stored.
-•	Your data will be stored securely, it won’t be shared outside of our research team and only the research team will have access to it.
+We do not share your data with any third parties, advertisers, or other entities. Access to the data is permitted only to designated members of  the research team.
 
 
 
